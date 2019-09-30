@@ -8,3 +8,13 @@ F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
 F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
 F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.exe
 F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.MainUI.resources
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.exe
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\bin\Debug\TicketApp.exe.config
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\bin\Debug\TicketApp.exe
+C:\Users\ARIF\Desktop\New folder\desktopapp\TicketApp\bin\Debug\TicketApp.pdb

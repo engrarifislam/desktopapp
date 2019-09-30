@@ -43,9 +43,11 @@ namespace TicketApp
                     price = price * ticketQuantity;
                     break;
                 }
-                else if (ticketQuantity == 4)
+                
+                else
                 {
-                    price = price * i;
+                    MessageBox.Show("Please enter valid data");
+                    break;
                 }
                 
             }
