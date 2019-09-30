@@ -1,0 +1,10 @@
+F:\BITM\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+F:\BITM\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+F:\BITM\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.MainUI.resources
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+F:\BITM\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
